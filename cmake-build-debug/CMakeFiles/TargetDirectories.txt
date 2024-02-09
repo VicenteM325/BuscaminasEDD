@@ -1,0 +1,3 @@
+/home/vicente/CLionProjects/BuscaminasEDD/cmake-build-debug/CMakeFiles/BuscaminasEDD.dir
+/home/vicente/CLionProjects/BuscaminasEDD/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vicente/CLionProjects/BuscaminasEDD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
